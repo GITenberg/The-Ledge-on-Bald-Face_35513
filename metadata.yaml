@@ -1,0 +1,32 @@
+_repo: The-Ledge-on-Bald-Face_35513
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35513-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Roberts, Charles G. D., Sir
+    aliases:
+    - Roberts, Charles George Douglas, Sir
+    - Roberts, Sir Charles George Douglas
+    birthdate: 1860
+    deathdate: 1943
+    gutenberg_agent_id: '2272'
+    url: http://www.gutenberg.org/2009/agents/2272
+    wikipedia: http://en.wikipedia.org/wiki/Charles_G._D._Roberts
+description: ''
+gutenberg_issued: '2011-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35513'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Anecdotes'
+- !lcc 'QL'
+tableOfContents: The ledge on Bald Face -- The eagle -- Cock-crow -- The morning of
+  the silver frost -- Jim, the backwoods police dog.
+title: The Ledge on Bald Face
+url: http://www.gutenberg.org/ebooks/35513
